@@ -25,3 +25,9 @@ Performing the computation using goroutines proves to be much faster, especially
 
 ---
 
+## Author
+
+Rishit Chaudhary
+
+---
+
